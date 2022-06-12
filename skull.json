@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1580340,
+        "token_add": "4e2jAqupgiMaYA7sSUPYT7buHDuk3nX9Gn5JeZbB7sA8",
+        "price": 0.25,
+        "for_sale": 1,
+        "link_img": "https://www.arweave.net/4JVYTHRrJ5KLh4DLRyBFb8QRXaASvIMdij3RzkGCIjY?ext=png",
+        "index": "SKULL #1234",
+        "escrowAdd": "7cDrJptM4HHy46SuNRkwrs1Be59NLbEBcVFsheUAYHVQ",
+        "seller_address": "FmTwfJwegg7kZuuMHZMsLDi5cAKq2NhP2ffTu7qjFCK2",
+        "attributes": "Background: Purple,Skull: Tie Dye Slime,Lines: Squiggle,Expression: Deadpan,Face: Green Poker Chip,Eyes: Joker Paint,Headgear: Horns,Name: Manolo the Headbanger",
+        "skin": null,
+        "type": "skeletoncrew",
+        "ranking": null,
+        "lastSoldPrice": 0.25,
+        "rarity": "Common",
+        "rank": 1,
+        "total": 10000
+    }
+]
